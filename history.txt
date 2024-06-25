@@ -1,0 +1,6 @@
+ref: 
+  https://www.w3schools.com/typescript
+  https://code.visualstudio.com/docs/typescript/typescript-tutorial
+  https://www.typescriptlang.org/docs/
+  https://www.javatpoint.com/typescript-tutorial
+  https://www.tutorialspoint.com/typescript/index.htm 
